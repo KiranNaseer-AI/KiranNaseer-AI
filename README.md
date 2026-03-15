@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kiran Naseer
 
 🔬 **PhD Researcher** | Federated Learning · Computer Vision · NLP  
-🏫 **Affiliation:** [Your University Name]  
+🏫 **Affiliation:** [University of Gujrat]  
 📍 Pakistan  
 
 ---
