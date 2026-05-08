@@ -25,7 +25,7 @@ My PhD research is unified under **FORGE** — *Framework for Out-of-distributio
 |-------|-------|--------|
 | When Fine-Tuning Hurts: Multimodal Instability in VLMs Under Severe Physical Domain Shift | ECCV 2026 | Under Review |
 | MedFL-Stress: Robustness Evaluation of Federated Brain Tumor Segmentation Under Cross-Hospital Heterogeneity | MIUA 2026 | Under Review |
-| Beyond Average Accuracy: Worst-Client Robustness in Federated Text Classification under Non-IID Distribution Shift | EMNLP 2026 | In Progress |
+| When More Parameters Hurt: Foundation Model Priors Amplify Worst-Client Disparity Under Extreme Federated Heterogeneity. | FL@FM Workshop, IJCAI 2026 | Under Review |
 
 ---
 
