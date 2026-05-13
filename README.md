@@ -2,7 +2,7 @@
 
 🔬 **PhD Researcher** | Federated Learning · Computer Vision · NLP  
 🏫 **Affiliation:** University of Gujrat, Pakistan  
-📍 Supervised by Dr. Nauman Riaz Chaudhry · External mentor: Prof. Dwarikanath Mahapatra (Khalifa University, UAE)
+📍 Supervised by Dr. Nauman Riaz Chaudhry & Dr. Naveed Anwar Butt · External collaborator: Prof. Dwarikanath Mahapatra (Khalifa University, UAE)
 
 ---
 
@@ -20,12 +20,11 @@ My PhD research is unified under **FORGE** — *Framework for Out-of-distributio
 ---
 
 ## 📄 Papers
-
-| Title | Venue | Status |
-|-------|-------|--------|
-| When Fine-Tuning Hurts: Multimodal Instability in VLMs Under Severe Physical Domain Shift | ECCV 2026 | Under Review |
-| MedFL-Stress: Robustness Evaluation of Federated Brain Tumor Segmentation Under Cross-Hospital Heterogeneity | MIUA 2026 | Under Review |
-| When More Parameters Hurt: Foundation Model Priors Amplify Worst-Client Disparity Under Extreme Federated Heterogeneity. | FL@FM Workshop, IJCAI 2026 | Under Review |
+| Title | Venue | Status | Link |
+|-------|-------|--------|------|
+| When Fine-Tuning Hurts: Multimodal Instability in VLMs Under Severe Physical Domain Shift | ECCV 2026 | Under Review | — |
+| MedFL-Stress: Robustness Evaluation of Federated Brain Tumor Segmentation Under Cross-Hospital Heterogeneity | MIUA 2026 | Under Review | [arXiv](https://arxiv.org/abs/2605.09025) |
+| When More Parameters Hurt: Foundation Model Priors Amplify Worst-Client Disparity Under Extreme Federated Heterogeneity | FL@FM-IJCAI 2026 | Under Review | [arXiv](https://arxiv.org/abs/2605.08992) |
 
 ---
 
@@ -55,4 +54,5 @@ My PhD research is unified under **FORGE** — *Framework for Out-of-distributio
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ek9e3qwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-naseer-37925b329)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kiranmuhammad)
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=Naseer+K)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5129-8155)
