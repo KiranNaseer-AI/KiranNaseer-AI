@@ -25,7 +25,7 @@ My PhD thesis is unified under **FORGE** — *Framework for Out-of-distribution 
 | # | Title | Venue | Status | Link |
 |---|---|---|---|---|
 | 1 | When More Parameters Hurt: FM Priors Amplify Worst-Client Disparity Under Extreme Federated Heterogeneity | FL@FM Workshop, IJCAI-ECAI 2026, Bremen | **Accepted** | [arXiv:2605.08992](https://arxiv.org/abs/2605.08992) · [Code](https://github.com/KiranNaseer-AI/FM-Fairness-Paradox) |
-| 2 | Perplexity	Predicts	Protection:	Choosing	Pretrained	Backbones	for	Worst-Client	Fairness	in	Federated	Parameter-Efficient	Fine Tuning | Under review |—	Expert	Systems	with	Applications	(Elsevier)	·	ESWA-D-26-35232 |
+| 2 | Perplexity	Predicts	Protection:	Choosing	Pretrained	Backbones	for	Worst-Client	Fairness	in	Federated	Parameter-Efficient	Fine Tuning | Expert	Systems	with	Applications	(Elsevier)	·	ESWA-D-26-35232 | Under review |
 | 3 | MedFL-Stress: A Statistically Rigorous Privacy-Aware Robustness Benchmark for Federated Brain Tumour Segmentation | Medical	Image	Analysis	(Elsevier)	·	MEDIA-D-26-02824 | Under review | — |
 | 4 | When Fine-Tuning Hurts: Multimodal Instability in VLMs Under Severe Physical Domain Shift (DAMF) | IEEE Transactions on Multimedia (with Prof. Mahapatra) | In preparation | — |
 | 5 | Adaptive ROI-Aware Active Learning for Label-Efficient Glioma MRI Segmentation | Medical Image Analysis / IEEE TMI (with Prof. Rashed) | In preparation | — |
