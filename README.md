@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kiran Naseer
 
 🔬 **PhD Researcher** | Federated Learning · Vision-Language Models · Medical Imaging AI
-🏫 **University of Gujrat, Pakistan** — Supervised by Dr. Nauman Riaz Chaudhry & Dr. Naveed Anwar Butt
+🏫 **University of Gujrat, Pakistan** 
 🌍 **External collaborators:** Prof. Dwarikanath Mahapatra (Khalifa University, UAE) · Prof. Essam Rashed (University of Hyogo, Japan)
 🎓 10+ years university teaching experience (HED Punjab)
 
